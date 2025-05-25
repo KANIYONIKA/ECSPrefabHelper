@@ -1,0 +1,10 @@
+{
+  "name": "ECSPrefabHelper.Editor",
+  "references": [
+    "ECSPrefabHelper"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

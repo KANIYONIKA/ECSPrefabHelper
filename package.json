@@ -1,0 +1,11 @@
+{
+  "name": "com.kaniyonika.ecs-prefab-helper",
+  "version": "1.0.0",
+  "displayName": "ECS Prefab Helper",
+  "description": "Helper struct for retrieving tagged prefabs from a PrefabBuffer",
+  "unity": "2022.3",
+  "author": {
+    "name": "Kenta.S"
+  },
+  "keywords": [ "ecs", "prefab", "buffer", "helper" ]
+}

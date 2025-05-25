@@ -1,0 +1,13 @@
+{
+  "name": "PrefabHelper.Tests",
+  "references": [
+    "PrefabHelper"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}
