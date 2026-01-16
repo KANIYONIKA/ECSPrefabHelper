@@ -1,7 +1,7 @@
 {
-  "name": "ECSPrefabHelper.Editor",
+  "name": "ECSPrefabRegistry.Editor",
   "references": [
-    "ECSPrefabHelper"
+    "ECSPrefabRegistry"
   ],
   "includePlatforms": [
     "Editor"

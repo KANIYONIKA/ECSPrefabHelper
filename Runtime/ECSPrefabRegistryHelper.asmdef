@@ -1,5 +1,5 @@
 {
-    "name": "ECSPrefabHelper",
+    "name": "ECSPrefabRegistry",
     "rootNamespace": "",
     "references": [
         "Unity.Entities",
