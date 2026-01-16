@@ -1,4 +1,4 @@
-namespace KANIYONIKA.ECSPrefabHelper
+namespace KANIYONIKA.ECSPrefabRegistry
 {
     using UnityEngine;
     using Unity.Entities;
